@@ -84,7 +84,7 @@ This is a sub(class?) of machine learning that teaches itself to perform a speci
 
 
 
-  ![A.I](photos/mario.gif "You can see the neural network")
+  ![A.I](photos/Mario.gif "You can see the neural network")
 
 # Conclusion
 So yeah... A.I is both amazing and versatile
