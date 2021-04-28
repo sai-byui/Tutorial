@@ -11,7 +11,7 @@ What Makes him such an interesting person and a pioneering figure in A.I is him 
 This question is something that has been debated for many decades but at its core is something that A.I has not reached but strives to eventually reach
 
 
-# Ok... cool you decribed its history, but what is it?
+# Ok... cool you described its history, but what is it?
 "Artificial intelligence enables computers and machines to mimic the perception, learning, problem-solving, and decision-making capabilities of the human mind." (sourced the quote from IBM.com)
 
 ![Circles](photos/IBM.webp "layered circles")
