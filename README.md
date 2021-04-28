@@ -70,7 +70,7 @@ An example of this would be last semester we looked at and followed a machine le
   Custom face tracking A.I I write to make and send coordinated to servo to control them with my face. 
   (And yes this has been done before this is not an original idea)
 
-  ![A.I](photos/face_Ai.gif "It tracks the center point of the square made")
+  ![A.I](photos/Face_Ai.gif "It tracks the center point of the square made")
 # `Deep Learning`
 This is a sub(class?) of machine learning that teaches itself to perform a specific task with increasingly greater accuracy, without human intervention.
 
