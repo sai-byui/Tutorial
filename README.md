@@ -18,7 +18,7 @@ This question is something that has been debated for many decades but at its cor
 # `Artificial Intelligence`
 Artificial intelligence comes in many forms but generally it covers a whole spectrum of computing technology that shows anything remotely resembling intelligence. This can include anything from a simple npc in a game to the complex expert systems found on the mars rovers
 ## Simple AI that I made for a homemade video game
-All examples shwon in tutorial here on out were captured on my computer
+All examples shown in tutorial here on out were captured on my computer
 ![A.I](photos/Game_Ai.gif "The A.I as you can see follows the player VERY simply")
 ```python
     def detect_player(self, player):
