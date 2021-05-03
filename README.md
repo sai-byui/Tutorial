@@ -1,4 +1,4 @@
-# An overveiw of Artificial Intelligence
+# An overview of Artificial Intelligence
 
 
 
