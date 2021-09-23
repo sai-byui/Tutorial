@@ -86,11 +86,12 @@ The very most disadvantage of a neural network is its black box nature. Because 
 
 ![network](photos/neural.webp "many circles this time")
 ![network_math](photos/networks.jpeg "many circles this time")
- These can be used for detecting which clothing item is which from a photo it is given 
+ 
+# These can be used for detecting which clothing item is which from a photo it is given 
   ![A.I](photos/Clothes.png "It tracks the center point of the square made")
 
 
-   to teaching itself how to play games near perfect
+  # to teaching itself how to play games near perfect
 
   ![A.I](photos/Mario.gif "You can see the neural network")
 
