@@ -73,8 +73,8 @@ An example of this would be last semester we looked at and followed a machine le
   ![A.I](photos/Face_AI.gif "It tracks the center point of the square made")
 # `Deep Learning`
 This is a sub-field of machine learning that teaches itself to perform a specific task with increasingly greater accuracy, without human intervention.
-  ![A.I](photos/Clothes.png "It tracks the center point of the square made")
-   to teaching itself how to play games near perfect
+
+
 **A common example of this is what is called a Neural Network**
 
 A neural network is a series of algorithms that work together that try to recognize relationships (mostly non-obvious patterns to humans) in a set of data through a process that mimics the way the human brain operates.
@@ -85,11 +85,12 @@ The very most disadvantage of a neural network is its black box nature. Because 
 
 
 ![network](photos/neural.webp "many circles this time")
- These can be used for detecting which clothing item is which from a photo it is given 
-
 ![network_math](photos/networks.jpeg "many circles this time")
+ These can be used for detecting which clothing item is which from a photo it is given 
+  ![A.I](photos/Clothes.png "It tracks the center point of the square made")
 
 
+   to teaching itself how to play games near perfect
 
   ![A.I](photos/Mario.gif "You can see the neural network")
 
