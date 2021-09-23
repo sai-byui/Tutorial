@@ -57,7 +57,7 @@ All examples shown in tutorial here on out were captured on my computer
 ![Circles](photos/IBM.webp "layered circles")
 
 
-Is a sub(class?) of AI. It is a computer algorithm that learns by itself. It reprograms itself, as it is given new or more data where it than can perform the specific task it's designed to improve automatically.
+Is a subfield of AI. It is based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention. 
 
 An example of this would be last semester we looked at and followed a machine learning algorithm that could predict given a parameter who would survive the titanic sinking or computer vision
   <br/>
@@ -72,9 +72,16 @@ An example of this would be last semester we looked at and followed a machine le
 
   ![A.I](photos/Face_AI.gif "It tracks the center point of the square made")
 # `Deep Learning`
-This is a sub(class?) of machine learning that teaches itself to perform a specific task with increasingly greater accuracy, without human intervention.
+This is a sub-field of machine learning that teaches itself to perform a specific task with increasingly greater accuracy, without human intervention.
 
 **A common example of this is what is called a Neural Network**
+
+A neural network is a series of algorithms that work together that try to recognize relationships (mostly non-obvious patterns to humans) in a set of data through a process that mimics the way the human brain operates.
+  <br/>
+  <br/>
+
+The very most disadvantage of a neural network is its black box nature. Because it has the ability to approximate any function, study its structure but don't give any insights on the structure of the function being approximated.
+
 
 ![network](photos/neural.webp "many circles this time")
  These can be used for detecting which clothing item is which from a photo it is given 
